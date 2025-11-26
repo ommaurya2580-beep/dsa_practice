@@ -7,7 +7,7 @@ void print(int n){
     {
         for (j=1;j<=i;j++)
         {
-            cout<<j;
+            cout<<i;
         }
         cout<<"\n";
     }
